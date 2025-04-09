@@ -29,12 +29,12 @@ FileDonkey transforms how you access files across devices. This lightweight util
 <br>
 <h3 align="center">Key Features:</h3>
 
-- Instant file access between Android, iPhone, Mac, Windows, and Linux devices
-- Zero configuration setup - just install and use
-- No more tangled wires or complicated network configurations
-- No cloud storage required - everything stays on your local network
-- Real-time file synchronization without manual transfers
-- Drag-and-drop simplicity with native file explorer integration
+<p>📱 Instant file access between Android, iPhone, Mac, Windows, and Linux devices</p>
+<p>⚡ Zero configuration setup - just install and use</p>
+<p>🔌 No more tangled wires or complicated network configurations</p>
+<p>🔒 No cloud storage required - everything stays on your local network</p>
+<p>🔄 Real-time file synchronization without manual transfers</p>
+<p>🖱️ Drag-and-drop simplicity with native file explorer integration</p>
 <br>
 <p align="center">
    <img alt="Finder Windows PC Locations" src="./Finder_WindowsPC_Locations.png" width="356px">
