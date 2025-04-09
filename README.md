@@ -27,7 +27,7 @@ FileDonkey transforms how you access files across devices. This lightweight util
   <a href="https://filedonkey.app">Be the first to know when FileDonkey launches</a>
 </h3>
 <br>
-<h3 align="center">Key Features:</h3>
+<h3 align="center">✔️ Key Features:</h3>
 
 <p>📱 Instant file access between Android, iPhone, Mac, Windows, and Linux devices</p>
 <p>⚡ Zero configuration setup - just install and use</p>
