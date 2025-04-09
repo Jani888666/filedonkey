@@ -21,7 +21,12 @@
 </p>
 
 FileDonkey transforms how you access files across devices. This lightweight utility creates a virtual disk that seamlessly mirrors the file systems of all your connected devices on the same local network.
-
+<br>
+<br>
+<h3 align="center">
+  <a href="https://filedonkey.app">Be the first to know when FileDonkey launches</a>
+</h3>
+<br>
 <h3 align="center">Key Features:</h3>
 
 - Instant file access between Android, iPhone, Mac, Windows, and Linux devices
@@ -37,11 +42,7 @@ FileDonkey transforms how you access files across devices. This lightweight util
 </p>
 <br>
 Stop emailing files to yourself or juggling USB drives. FileDonkey creates a unified filesystem across all your devices, making your important files instantly accessible wherever you need them.
-<br>
-<br>
-<h3 align="center">
-  <a href="https://filedonkey.app">Be the first to know when FileDonkey launches</a>
-</h3>
+
 
 <!---
 filedonkey/filedonkey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
