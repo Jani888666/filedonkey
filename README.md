@@ -36,9 +36,14 @@ FileDonkey transforms how you access files across devices. This lightweight util
 <p>🔄 Real-time file synchronization without manual transfers</p>
 <p>🖱️ Drag-and-drop simplicity with native file explorer integration</p>
 <br>
+<p align="center">Finder native integration in macOS</p>
 <p align="center">
-   <img alt="Finder Windows PC Locations" src="./Finder_WindowsPC_Locations.png" width="356px">
-   <img alt="File Explorer Android Phone Locations.png" src="./FileExplorer_AndroidPhone_Locations.png" width="318px">
+   <img alt="Finder Windows PC Locations" src="./Finder_WindowsPC_Locations.png" width="353px">
+</p>
+<br>
+<p align="center">File Explorer native integration in Windows</p>
+<p align="center">
+   <img alt="File Explorer Android Phone Locations.png" src="./FileExplorer_AndroidPhone_Locations.png" width="353px">
 </p>
 <br>
 Stop emailing files to yourself or juggling USB drives. FileDonkey creates a unified filesystem across all your devices, making your important files instantly accessible wherever you need them.
