@@ -32,7 +32,7 @@ FileDonkey transforms how you access files across devices. This lightweight util
 <p>📱 Instant file access between Android, iPhone, Mac, Windows, and Linux devices</p>
 <p>⚡ Zero configuration setup - just install and use</p>
 <p>🔌 No more tangled wires or complicated network configurations</p>
-<p>🔒 No cloud storage required - everything stays on your local network</p>
+<p>🔒 No cloud storage required — everything goes through your local network and stays on your devices</p>
 <p>🔄 Real-time file synchronization without manual transfers</p>
 <p>🖱️ Drag-and-drop simplicity with native file explorer integration</p>
 <br>
