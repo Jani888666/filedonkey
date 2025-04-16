@@ -24,7 +24,7 @@ FileDonkey transforms how you access files across devices. This lightweight util
 <br>
 <br>
 <h3 align="center">
-  <a href="https://filedonkey.app">Be the first to know when FileDonkey launches</a>
+  <a href="https://filedonkey.app">Get notified when FileDonkey launches</a>
 </h3>
 <br>
 <h3 align="center">✔️ Key Features:</h3>
