@@ -23,9 +23,9 @@
 FileDonkey transforms how you access files across devices. This lightweight utility creates a virtual disk that seamlessly mirrors the file systems of all your connected devices on the same local network.
 <br>
 <br>
-<h2 align="center">
+<h3 align="center">
   <a href="https://filedonkey.app">Be the first to know when FileDonkey launches</a>
-</h2>
+</h3>
 <br>
 <h3 align="center">✔️ Key Features:</h3>
 
